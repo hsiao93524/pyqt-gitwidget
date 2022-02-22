@@ -1,5 +1,5 @@
 # pyqt-gitwidget
-Clone git GUI tool with pyqtwidget.
+A GUI tool to clone git with PyQt.
 
 # Usage
 Clone git Repository to folder.
