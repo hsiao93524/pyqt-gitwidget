@@ -3,7 +3,9 @@ clone git GUI tool with pyqtwidget.
 
 # Usage
 Clone git Repository to folder.
+
 Get git data with enterng infomation and Submit button.
+
 Press Refresh button to preview the list of files in Repository.
 
 ## Install
